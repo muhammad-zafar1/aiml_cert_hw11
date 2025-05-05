@@ -3,7 +3,7 @@
 Date: 5-4-25
 
 Link to Notebook:
-URL
+URL: https://github.com/muhammad-zafar1/aiml_cert_hw11/blob/main/car_price_analysis.ipynb
 
 ### Target Audience
 Car dealers in the U.S. interested in understanding how to maximize the sale price of used cars.
