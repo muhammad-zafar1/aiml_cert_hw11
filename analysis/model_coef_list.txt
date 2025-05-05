@@ -1,0 +1,110 @@
+
+
+Model Coefficients List by Feature Name
+----------------------------------------
+
+model_coef			feature_name
+13	56476.293286	manufacturer_ferrari
+53	17963.960916	cylinders_12 cylinders
+40	14752.882401	manufacturer_tesla
+4	13491.493738	manufacturer_aston-martin
+35	9831.806600	manufacturer_porsche
+60	9534.867634	fuel_diesel
+154	5617.814687	state_ut
+37	5000.326122	manufacturer_rover
+66	4809.093186	title_status_lien
+136	4737.651987	state_mt
+92	3955.808428	type_pickup
+110	3915.880247	state_ak
+11	3646.525253	manufacturer_datsun
+49	3452.235361	condition_new
+3	2921.707096	manufacturer_alfa-romeo
+86	2477.893142	type_convertible
+65	2467.713619	title_status_clean
+0	2448.554789	year
+75	2416.809460	drive_4wd
+87	2333.400852	type_coupe
+157	2275.455991	state_wa
+5	2150.589606	manufacturer_audi
+104	2146.373663	paint_color_purple
+83	2015.963046	size_unknown
+138	1912.226747	state_nd
+143	1833.843070	state_nv
+32	1754.279442	manufacturer_morgan
+48	1667.423809	condition_like new
+94	1543.981413	type_truck
+126	1528.479615	state_ks
+95	1508.089100	type_van
+160	1464.014121	state_wy
+134	1442.101271	state_mo
+123	1356.004391	state_id
+74	1339.483997	transmission_other
+111	1339.053089	state_al
+151	1336.984524	state_sd
+152	1324.637523	state_tn
+25	1298.177386	manufacturer_lexus
+21	1292.681285	manufacturer_jaguar
+139	1235.086627	state_ne
+159	1143.126426	state_wv
+121	1127.363173	state_hi
+153	1093.061046	state_tx
+97	890.436490	paint_color_black
+44	864.457159	manufacturer_volvo
+71	805.148889	title_status_unknown
+77	788.965516	drive_rwd
+47	766.380183	condition_good
+90	761.526116	type_offroad
+58	674.196731	cylinders_8 cylinders
+109	658.464565	paint_color_yellow
+115	533.913077	state_co
+127	493.584426	state_ky
+100	416.711962	paint_color_custom
+113	401.954421	state_az
+89	394.686562	type_mini-van
+91	371.224630	type_other
+52	360.944547	cylinders_10 cylinders
+108	325.398298	paint_color_white
+103	293.807183	paint_color_orange
+122	285.725905	state_ia
+73	192.469776	transmission_manual
+2	156.203605	manufacturer_acura
+45	152.882016	condition_excellent
+102	26.510428	paint_color_grey
+8	-19.297446	manufacturer_cadillac
+26	-20.679667	manufacturer_lincoln
+51	-59.781127	condition_unknown
+125	-60.120204	state_in
+105	-81.080056	paint_color_red
+81	-98.080061	size_mid-size
+119	-180.799914	state_fl
+98	-195.728390	paint_color_blue
+150	-196.805046	state_sc
+142	-279.954682	state_nm
+16	-311.571684	manufacturer_gmc
+135	-367.551045	state_ms
+79	-419.973332	size_compact
+114	-522.740993	state_ca
+80	-544.207378	size_full-size
+64	-569.634347	fuel_other
+149	-570.507004	state_ri
+36	-615.696308	manufacturer_ram
+41	-627.114750	manufacturer_toyota
+99	-639.449213	paint_color_brown
+120	-648.310317	state_ga
+133	-687.261854	state_mn
+67	-703.743831	title_status_missing
+101	-750.109883	paint_color_green
+69	-756.291301	title_status_rebuilt
+132	-764.584188	state_mi
+112	-786.887478	state_ar
+106	-790.456061	paint_color_silver
+78	-824.586545	drive_unknown
+118	-869.123071	state_de
+156	-883.903090	state_vt
+146	-941.285951	state_ok
+128	-951.375841	state_la
+82	-953.702275	size_sub-compact
+
+
+
+
